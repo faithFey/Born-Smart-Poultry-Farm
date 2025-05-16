@@ -4,24 +4,26 @@ Born Smart Poultry Farm is a commercial poultry farming venture based in Matisi-
 
 2. Objectives
 
-Provide detailed information on different poultry categories (chicks, hens, cocks).
+    Provide detailed information on different poultry categories (chicks, hens, cocks).
 
-Display feeding schedules and management practices for transparency and education.
+    Display feeding schedules and management practices for transparency and education.
 
-Facilitate customer interaction through a contact form.
+    Facilitate customer interaction through a contact form.
 
-Establish online visibility and trust through clean design and clear information.
+    Establish online visibility and trust through clean design and clear information.
 
-Enable responsive browsing on all devices (desktop, tablet, mobile).
+    Enable responsive browsing on all devices (desktop, tablet, mobile).
 
 3. Technology Stack
-Component	Technology
-Structure	HTML5
-Styling	CSS3 (Responsive Design)
-Interactivity	JavaScript (form validation, image slider)
-Hosting Ready	Static site – GitHub Pages 
+
+    Component	Technology
+    Structure	HTML5
+    Styling	CSS3 (Responsive Design)
+    Interactivity	JavaScript (form validation, image slider)
+    Hosting Ready	Static site – GitHub Pages 
 
 4. Website Structure
+
 🔹 Home Page (index.html)
 Hero section with a welcoming message and call-to-action.
 
@@ -54,6 +56,7 @@ Fields: Name, Email, Message.
 JavaScript form validation before submission.
 
 5. Key Features
+
 ✅ Poultry Categories:
 Clearly presented with images, age info, pricing, and purpose (meat, eggs, breeding).
 
@@ -79,6 +82,7 @@ Form validation (empty fields, email format).
 Image slider functionality for gallery section.
 
 6. Usage Instructions
+
 💻 Locally
 Open index.html in any modern browser.
 
@@ -92,21 +96,20 @@ Upload to GitHub Pages.
 Ensure all assets (images, CSS, JS) are correctly linked.
 
 7. File Structure
-bash
-Copy
-Edit
 /project-root
 ├── index.html
 ├── about.html
 ├── contact.html
-├── styles.css
-├── script.js
+├── css/
+│ └── styles.css
+├── js/
+│ └── script.js
 ├── images/
-│   ├── kienyeji.jpg
-│   ├── improved.jpg
-│   ├── chicks.jpg
-│   ├── cock.jpg
-│   └── ...other images
+│ ├── kienyeji.jpg
+│ ├── improved.jpg
+│ ├── chicks.jpg
+│ ├── cock.jpg
+│ └── ...other images
 
 8. Future Enhancements
 
@@ -119,6 +122,7 @@ Integrate WhatsApp or chatbot for real-time communication.
 Add testimonials and reviews from customers.
 
 9. Author
+
 Farmer & Developer: Faith Nasimiyu Wafula
 Location: Matisi-Kitale, Kenya
 Project: Born Smart Poultry Farm
